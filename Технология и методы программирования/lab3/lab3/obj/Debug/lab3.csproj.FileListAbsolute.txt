@@ -8,3 +8,15 @@ C:\Users\dimon\OneDrive\Документы\GitHub\lab-work\Технология 
 C:\Users\dimon\OneDrive\Документы\GitHub\lab-work\Технология и методы программирования\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
 C:\Users\dimon\OneDrive\Документы\GitHub\lab-work\Технология и методы программирования\lab3\lab3\obj\Debug\lab3.exe
 C:\Users\dimon\OneDrive\Документы\GitHub\lab-work\Технология и методы программирования\lab3\lab3\obj\Debug\lab3.pdb
+E:\ИНСТИТУТ ЛАБЫ\lab-work\Технология и методы программирования\lab3\lab3\bin\Debug\lab3.exe.config
+E:\ИНСТИТУТ ЛАБЫ\lab-work\Технология и методы программирования\lab3\lab3\bin\Debug\lab3.exe
+E:\ИНСТИТУТ ЛАБЫ\lab-work\Технология и методы программирования\lab3\lab3\bin\Debug\lab3.pdb
+E:\ИНСТИТУТ ЛАБЫ\lab-work\Технология и методы программирования\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+E:\ИНСТИТУТ ЛАБЫ\lab-work\Технология и методы программирования\lab3\lab3\obj\Debug\lab3.Form1.resources
+E:\ИНСТИТУТ ЛАБЫ\lab-work\Технология и методы программирования\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+E:\ИНСТИТУТ ЛАБЫ\lab-work\Технология и методы программирования\lab3\lab3\obj\Debug\lab3.Visualizer.resources
+E:\ИНСТИТУТ ЛАБЫ\lab-work\Технология и методы программирования\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+E:\ИНСТИТУТ ЛАБЫ\lab-work\Технология и методы программирования\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+E:\ИНСТИТУТ ЛАБЫ\lab-work\Технология и методы программирования\lab3\lab3\obj\Debug\lab3.exe
+E:\ИНСТИТУТ ЛАБЫ\lab-work\Технология и методы программирования\lab3\lab3\obj\Debug\lab3.pdb
+E:\ИНСТИТУТ ЛАБЫ\lab-work\Технология и методы программирования\lab3\lab3\obj\Debug\lab3.AboutAuthor.resources
